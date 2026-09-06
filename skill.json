@@ -1,0 +1,15 @@
+{
+  "name": "genpark-runtime-variable-diff-state-inspector-skill",
+  "version": "1.0.0",
+  "description": "Local namespace variable diff inspector tracking variable creation, modification, and deletion across REPL execution steps.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "variable-diff",
+    "state-inspector",
+    "repl-audit",
+    "introspection",
+    "genpark",
+    "mcp"
+  ]
+}
